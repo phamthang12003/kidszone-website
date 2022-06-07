@@ -23,7 +23,7 @@ After Code
   git status (Check Which Files We Are Created, Modified or Deleted)
   git add <file that we create>
   git commit -m "another commit"
-  git push origin feature/abc_function
+  git push origin feature/abc_function (or git push)
 ```
 Update The Code From Remote To Local
 ```bash
